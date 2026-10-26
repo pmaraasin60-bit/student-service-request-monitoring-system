@@ -1,0 +1,6 @@
+Service_Type,Requester_Type,Requested_Channel,Priority,Queue_Length,Required_Documents_Complete,SLA_Days,Predicted_SLA_Breached,Predicted_Breach_Probability
+It Support,Student,Portal,Normal,10,Yes,3,0,0.2727272727272727
+Scholarship Inquiry,Student,Portal,Normal,7,No,3,0,0.08333333333333333
+It Support,Staff,Walk-In,Normal,12,Yes,3,1,0.7058823529411765
+Records,Student,Portal,Low,9,Yes,5,0,0.2727272727272727
+Certification,Student,Portal,Normal,12,No,3,0,0.2727272727272727
