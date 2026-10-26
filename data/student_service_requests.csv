@@ -1,0 +1,401 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score
+REQ-2026-0001,IT Support,Student,2026-02-21,Portal,Normal,Registrar,10,Yes,2.0,3,Completed,No,4.0
+REQ-2026-0002,Scholarship Inquiry,Student,2026-01-15,Portal,Normal,Student Affairs,7,No,2.0,3,Completed,No,3.0
+REQ-2026-0003,Certification,Student,2026-03-13,Email,Normal,Student Affairs,12,Yes,,2,Pending,No,
+REQ-2026-0004,IT Support,Staff,2026-03-02,Walk-in,Normal,Student Affairs,12,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0005,Records,Student,2026-01-21,Portal,Low,Finance Office,9,Yes,6.0,5,Completed,No,2.0
+REQ-2026-0006,Certification,Student,2026-03-24,Portal,Normal,Student Affairs,12,No,3.0,3,Completed,No,5.0
+REQ-2026-0007,IT Support,Faculty,2026-03-28,Portal,Normal,IT Helpdesk,7,No,5.0,5,Completed,No,3.0
+REQ-2026-0008,Certification,Student,2026-03-16,Walk-in,Normal,Registrar,9,Yes,7.0,5,Completed,Yes,3.0
+REQ-2026-0009,Certification,Student,2026-03-16,Email,High,IT Helpdesk,9,Yes,4.0,7,Completed,No,3.0
+REQ-2026-0010,Records,Faculty,2026-03-29,Portal,Normal,Registrar,5,Yes,5.0,3,Completed,No,1.0
+REQ-2026-0011,Certification,Student,2026-01-24,Portal,Normal,Student Affairs,16,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0012,Scholarship Inquiry,Student,2026-01-03,Walk-in,Normal,Registrar,10,Yes,4.0,3,Completed,No,3.0
+REQ-2026-0013,Scholarship Inquiry,Student,2026-01-22,Portal,Normal,Registrar,9,No,4.0,3,Completed,Yes,3.0
+REQ-2026-0014,IT Support,Student,2026-02-22,Portal,Normal,Registrar,6,No,5.0,5,Completed,No,5.0
+REQ-2026-0015,IT Support,Student,2026-01-02,Portal,Normal,Registrar,8,Yes,,3,Pending,No,
+REQ-2026-0015,Certification,Student,2026-03-29,Portal,Normal,IT Helpdesk,5,No,6.0,5,Completed,No,2.0
+REQ-2026-0017,Certification,Student,2026-01-30,Portal,Normal,IT Helpdesk,13,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0018,Records,Staff,2026-02-07,Email,High,IT Helpdesk,10,Yes,7.0,5,Completed,No,1.0
+REQ-2026-0019,Certification,Student,2026-01-02,Walk-in,Normal,IT Helpdesk,14,Yes,7.0,5,Completed,No,1.0
+REQ-2026-0020,Certification,Faculty,2026-03-05,Email,Low,Student Affairs,10,Yes,,3,Pending,No,
+REQ-2026-0021,Library Access,Faculty,2026-03-01,Walk-in,Normal,Registrar,12,No,4.0,3,Completed,No,1.0
+REQ-2026-0022,Certification,Student,2026-01-21,Portal,Normal,Registrar,16,Yes,,3,Cancelled,No,
+REQ-2026-0023,Certification,Student,2026-02-02,portal,Low,IT Helpdesk,14,Yes,7.0,2,Completed,No,1.0
+REQ-2026-0024,Certification,Student,2026-03-17,Portal,Normal,IT Helpdesk,13,Yes,9.0,3,Completed,No,2.0
+REQ-2026-0025,IT Support,Student,2026-02-27,Email,Normal,Registrar,11,Yes,1.0,2,Completed,No,4.0
+REQ-2026-0026,IT Support,Staff,2026-01-22,Walk-in,Low,Registrar,11,Yes,,3,Cancelled,No,
+REQ-2026-0027,Records,Student,2026-03-30,Portal,Low,Registrar,11,Yes,4.0,3,Completed,No,2.0
+REQ-2026-0028,Certification,Student,2026-02-18,Portal,Low,IT Helpdesk,8,Yes,2.0,3,Completed,No,4.0
+REQ-2026-0029,Scholarship Inquiry,Student,2026-02-28,Portal,High,Registrar,9,No,7.0,5,Completed,Yes,3.0
+REQ-2026-0030,Certification,Student,2026-02-11,Portal,Low,IT Helpdesk,11,No,,2,Pending,No,
+REQ-2026-0031,Records,Student,2026-03-01,Portal,Normal,Student Affairs,11,Yes,4.0,5,Completed,No,5.0
+REQ-2026-0032,IT Support,Student,2026-03-21,Email,Normal,Registrar,12,No,1.0,3,Completed,No,4.0
+REQ-2026-0033,Scholarship Inquiry,Student,2026-01-15,Walk-in,Normal,Finance Office,7,Yes,,3,Pending,No,
+REQ-2026-0034,Records,Student,2026-03-03,Portal,High,IT Helpdesk,12,Yes,3.0,5,Completed,No,3.0
+REQ-2026-0035,IT Support,Student,2026-03-03,Portal,Low,IT Helpdesk,16,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0036,Scholarship Inquiry,Student,2026-02-16,Portal,Normal,Student Affairs,10,Yes,5.0,3,Completed,No,1.0
+REQ-2026-0037,Certification,Student,2026-03-03,Walk-in,Normal,Student Affairs,11,Yes,4.0,3,Completed,No,2.0
+REQ-2026-0038,Library Access,Faculty,2026-02-20,Portal,High,IT Helpdesk,12,No,,3,Pending,No,
+REQ-2026-0039,IT Support,Student,2026-02-24,Portal,Normal,Registrar,7,Yes,5.0,3,Completed,No,1.0
+REQ-2026-0040,IT Support,Student,2026-03-05,Portal,Normal,Registrar,14,Yes,,3,Pending,No,
+REQ-2026-0041,IT Support,Student,2026-01-03,Portal,Low,Registrar,7,Yes,5.0,5,Completed,No,3.0
+REQ-2026-0042,Records,Student,2026-02-20,Portal,Normal,Registrar,12,No,,3,Cancelled,No,
+REQ-2026-0043,Records,Staff,2026-01-07,Walk-in,Normal,Registrar,9,Yes,2.0,3,Completed,No,3.0
+REQ-2026-0044,Certification,Student,2026-01-21,Portal,High,Registrar,10,Yes,2.0,3,Completed,No,4.0
+REQ-2026-0045,Records,Student,2026-03-14,Email,Low,Registrar,8,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0046,Certification,Student,2026-02-08,Portal,Low,Student Affairs,14,Yes,3.0,2,Completed,No,2.0
+REQ-2026-0047,Scholarship Inquiry,Student,2026-01-18,Email,Normal,Finance Office,17,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0048,Scholarship Inquiry,Student,2026-01-04,Email,Low,Finance Office,10,No,2.0,3,Completed,No,3.0
+REQ-2026-0049,IT Support,Student,2026-03-30,Portal,Low,IT Helpdesk,5,Yes,11.0,7,Completed,No,1.0
+REQ-2026-0050,Scholarship Inquiry,Student,2026-03-01,Portal,High,Student Affairs,11,Yes,1.0,3,Completed,No,3.0
+REQ-2026-0051,IT Support,Student,2026-01-14,Portal,Normal,Finance Office,13,Yes,4.0,3,Completed,No,1.0
+REQ-2026-0052,Certification,Student,2026-01-09,Email,Normal,Registrar,12,No,1.0,3,Completed,No,4.0
+REQ-2026-0053,Records,Faculty,2026-02-22,Portal,Normal,Registrar,9,Yes,4.0,5,Completed,No,3.0
+REQ-2026-0054,Certification,Student,2026-01-02,Walk-in,Normal,Finance Office,9,Yes,,3,Cancelled,No,
+REQ-2026-0055,IT Support,Student,2026-03-25,Portal,Low,IT Helpdesk,6,No,,3,Cancelled,No,
+REQ-2026-0056,Certification,Student,2026-03-01,Email,Normal,IT Helpdesk,7,Yes,,5,Cancelled,No,
+REQ-2026-0057,IT Support,Faculty,2026-03-12,Email,Normal,Registrar,11,Yes,7.0,5,Completed,No,3.0
+REQ-2026-0058,Records,Student,2026-02-13,Email,Normal,Registrar,12,Yes,2.0,3,Completed,No,3.0
+REQ-2026-0059,IT Support,Faculty,2026-01-08,Portal,Normal,Student Affairs,9,Yes,3.0,5,Completed,No,5.0
+REQ-2026-0060,Scholarship Inquiry,Student,2026-02-16,Portal,Low,IT Helpdesk,7,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0061,IT Support,Student,2026-02-04,Email,Normal,Registrar,9,Yes,,3,Pending,No,
+REQ-2026-0062,Library Access,Student,2026-03-19,Portal,High,Registrar,9,Yes,4.0,2,Completed,No,2.0
+REQ-2026-0063,Scholarship Inquiry,Student,2026-03-22,Portal,Normal,IT Helpdesk,12,Yes,8.0,7,Completed,Yes,2.0
+REQ-2026-0064,Scholarship Inquiry,Student,2026-02-05,Portal,Normal,IT Helpdesk,13,Yes,5.0,2,Completed,No,1.0
+REQ-2026-0065,Library Access,Student,2026-02-19,Portal,Normal,Registrar,12,Yes,1.0,3,Completed,No,3.0
+REQ-2026-0066,Scholarship Inquiry,Student,2026-01-04,Portal,Normal,Finance Office,9,Yes,,2,Pending,No,
+REQ-2026-0067,IT Support,Student,2026-01-02,Portal,Normal,Registrar,5,No,4.0,5,Completed,No,5.0
+REQ-2026-0068,Records,Student,2026-01-06,Portal,Low,Registrar,9,Yes,6.0,3,Completed,No,3.0
+REQ-2026-0069,Certification,Student,2026-02-23,Email,Normal,Student Affairs,8,No,,2,Cancelled,No,
+REQ-2026-0070,Certification,Student,2026-01-04,Email,Normal,Registrar,7,Yes,1.0,2,Completed,No,4.0
+REQ-2026-0071,Records,Student,2026-02-23,Email,Low,Student Affairs,4,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0072,Records,Student,2026-03-04,Walk-in,Normal,Student Affairs,7,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0073,Library Access,Student,2026-01-18,Portal,High,Student Affairs,9,Yes,6.0,5,Completed,No,3.0
+REQ-2026-0074,Scholarship Inquiry,Staff,2026-02-13,Portal,Normal,Registrar,5,Yes,6.0,3,Completed,Yes,1.0
+REQ-2026-0075,Scholarship Inquiry,Student,2026-02-03,Portal,Normal,Registrar,6,Yes,,3,Cancelled,No,
+REQ-2026-0076,Certification,Student,2026-03-15,Portal,Low,Registrar,9,No,7.0,5,Completed,Yes,1.0
+REQ-2026-0077,Records,Student,2026-03-03,Walk-in,Normal,IT Helpdesk,8,Yes,,2,Pending,No,
+REQ-2026-0078,Records,Faculty,2026-01-14,Portal,Normal,Student Affairs,7,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0079,Records,Student,2026-02-17,Portal,Normal,Student Affairs,9,Yes,9.0,7,Completed,No,2.0
+REQ-2026-0080,Records,Student,2026-01-15,Portal,High,Student Affairs,8,No,3.0,3,Completed,No,5.0
+REQ-2026-0081,Records,Faculty,2026-03-13,Portal,High,Finance Office,9,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0082,Scholarship Inquiry,Student,2026-03-19,Email,Normal,Student Affairs,15,Yes,6.0,3,Completed,No,1.0
+REQ-2026-0083,IT Support,Student,2026-03-28,Portal,Normal,Registrar,14,No,,3,Pending,No,
+REQ-2026-0084,Records,Student,2026-03-03,Walk-in,High,Registrar,6,Yes,5.0,3,Completed,Yes,3.0
+REQ-2026-0085,Records,Student,2026-02-09,Portal,Low,Student Affairs,13,No,10.0,2,Completed,No,1.0
+REQ-2026-0086,Certification,Student,2026-03-26,Portal,High,Registrar,12,Yes,3.0,2,Completed,No,3.0
+REQ-2026-0087,Records,Faculty,2026-03-21,Walk-in,Normal,Registrar,13,Yes,1.0,2,Completed,No,5.0
+REQ-2026-0088,Library Access,Student,2026-03-23,Portal,Low,IT Helpdesk,4,No,6.0,7,Completed,No,3.0
+REQ-2026-0089,Certification,Faculty,2026-02-22,Walk-in,Normal,Student Affairs,6,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0090,Certification,Student,2026-01-24,Walk-in,Normal,Registrar,10,Yes,1.0,2,Completed,No,3.0
+REQ-2026-0091,Certification,Student,2026-01-26,Email,Normal,Student Affairs,15,No,4.0,2,Completed,No,3.0
+REQ-2026-0092,Records,Student,2026-03-30,Email,Normal,Student Affairs,12,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0093,IT Support,Student,2026-03-01,Portal,Low,IT Helpdesk,9,Yes,2.0,2,Completed,No,5.0
+REQ-2026-0094,IT Support,Student,2026-02-10,Walk-in,Low,Registrar,7,Yes,1.0,3,Completed,No,3.0
+REQ-2026-0095,IT Support,Student,2026-01-29,Portal,Low,Registrar,8,Yes,7.0,7,Completed,No,3.0
+REQ-2026-0096,Records,Student,2026-01-15,Email,Normal,Student Affairs,14,No,,3,Pending,No,
+REQ-2026-0097,Certification,Student,2026-02-14,Walk-in,Low,Student Affairs,3,Yes,5.0,5,Completed,No,3.0
+REQ-2026-0098,Certification,Student,2026-03-06,Walk-in,Normal,Finance Office,10,Yes,9.0,7,Completed,No,3.0
+REQ-2026-0099,Scholarship Inquiry,Student,2026-03-30,Email,Normal,IT Helpdesk,8,Yes,8.0,3,Completed,Yes,1.0
+REQ-2026-0100,Certification,Student,2026-03-12,Portal,High,Registrar,19,No,,2,Cancelled,No,
+REQ-2026-0101,Certification,Student,2026-01-09,Walk-in,High,Registrar,13,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0102,IT Support,Student,2026-03-29,Email,Normal,Student Affairs,10,Yes,4.0,5,Completed,No,3.0
+REQ-2026-0103,IT Support,Staff,2026-01-01,Walk-in,Normal,Registrar,13,No,,5,Pending,No,
+REQ-2026-0104,Certification,Student,2026-01-08,Email,Normal,Registrar,11,Yes,6.0,5,Completed,No,3.0
+REQ-2026-0105,Certification,Student,2026-03-29,Portal,High,IT Helpdesk,10,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0106,Certification,Student,2026-03-04,Portal,Normal,Registrar,12,Yes,2.0,5,Completed,No,5.0
+REQ-2026-0107,Scholarship Inquiry,Student,2026-01-11,Portal,Low,Registrar,9,Yes,9.0,7,Completed,No,2.0
+REQ-2026-0108,Certification,Student,2026-03-22,Email,Normal,Registrar,8,Yes,,5,Cancelled,No,
+REQ-2026-0109,Library Access,Staff,2026-01-08,Portal,Normal,Registrar,10,Yes,5.0,7,Completed,No,4.0
+REQ-2026-0110,Certification,Faculty,2026-02-04,Portal,Normal,Registrar,13,No,5.0,5,Completed,No,3.0
+REQ-2026-0111,Library Access,Student,2026-02-04,Portal,Normal,Student Affairs,8,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0112,Scholarship Inquiry,Student,2026-02-02,Email,High,Student Affairs,11,Yes,3.0,3,Completed,No,4.0
+REQ-2026-0113,Certification,Student,2026-01-05,Portal,High,Registrar,10,Yes,6.0,3,Completed,No,1.0
+REQ-2026-0114,Scholarship Inquiry,Student,2026-02-10,Portal,Normal,Student Affairs,11,No,4.0,2,Completed,No,1.0
+REQ-2026-0115,Records,Student,2026-01-28,Portal,Low,Registrar,12,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0116,Library Access,Student,2026-01-07,Portal,Low,IT Helpdesk,12,Yes,6.0,3,Completed,No,2.0
+REQ-2026-0117,IT Support,Student,2026-03-14,Portal,Normal,Finance Office,14,Yes,6.0,5,Completed,No,2.0
+REQ-2026-0118,Records,Student,2026-03-13,Portal,Normal,Student Affairs,7,Yes,8.0,7,Completed,No,2.0
+REQ-2026-0119,IT Support,Student,2026-01-12,Portal,Normal,Student Affairs,8,No,1.0,5,Completed,No,3.0
+REQ-2026-0120,Library Access,Staff,2026-02-03,Walk-in,Normal,Registrar,10,No,5.0,2,Completed,No,3.0
+REQ-2026-0121,Records,Student,2026-02-02,Walk-in,Normal,Registrar,15,Yes,,3,Cancelled,No,
+REQ-2026-0122,Certification,Student,2026-02-17,Portal,Normal,Finance Office,8,Yes,1.0,2,Completed,No,3.0
+REQ-2026-0123,IT Support,Student,2026-01-23,Walk-in,Normal,Registrar,5,Yes,2.0,5,Completed,No,5.0
+REQ-2026-0124,Scholarship Inquiry,Faculty,2026-03-03,Portal,Normal,Registrar,12,Yes,4.0,5,Completed,No,5.0
+REQ-2026-0125,Certification,Staff,2026-03-29,Email,High,Student Affairs,6,Yes,8.0,7,Completed,No,2.0
+REQ-2026-0126,Records,Student,2026-02-06,Email,High,Student Affairs,5,Yes,4.0,3,Completed,No,2.0
+REQ-2026-0127,Records,Student,2026-02-13,Portal,High,Finance Office,16,Yes,11.0,7,Completed,No,3.0
+REQ-2026-0128,Certification,Student,2026-03-27,Portal,Normal,Registrar,13,Yes,7.0,5,Completed,No,3.0
+REQ-2026-0129,Certification,Student,2026-02-04,Portal,Normal,Finance Office,12,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0130,Library Access,Student,2026-03-06,Portal,Normal,Registrar,6,Yes,4.0,5,Completed,No,3.0
+REQ-2026-0131,Records,Student,2026-02-16,Email,High,Registrar,12,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0132,IT Support,Student,2026-03-19,Portal,Low,IT Helpdesk,14,Yes,5.0,3,Completed,Yes,1.0
+REQ-2026-0133,Records,Student,2026-01-03,Portal,Normal,Registrar,9,Yes,,5,Pending,No,
+REQ-2026-0134,Records,Student,2026-01-01,Portal,Low,Registrar,12,Yes,3.0,3,Completed,No,4.0
+REQ-2026-0135,Certification,Faculty,2026-01-05,Portal,Normal,Student Affairs,5,No,2.0,5,Completed,No,3.0
+REQ-2026-0136,Certification,Student,2026-01-14,Portal,Normal,Registrar,7,No,5.0,5,Completed,No,3.0
+REQ-2026-0137,IT Support,Student,2026-01-27,Portal,Normal,Registrar,10,Yes,4.0,3,Completed,No,2.0
+REQ-2026-0138,Scholarship Inquiry,Student,2026-01-09,Walk-in,Low,Registrar,11,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0139,IT Support,Student,2026-03-20,Portal,Normal,IT Helpdesk,11,No,,3,Pending,No,
+REQ-2026-0140,Library Access,Student,2026-01-15,Portal,High,IT Helpdesk,10,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0141,Scholarship Inquiry,Student,2026-02-11,Email,Normal,Student Affairs,11,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0142,Certification,Staff,2026-03-18,Portal,Normal,Student Affairs,11,No,,3,Pending,No,
+REQ-2026-0143,Scholarship Inquiry,Student,2026-02-20,Email,Normal,IT Helpdesk,10,No,3.0,2,Completed,No,1.0
+REQ-2026-0144,IT Support,Student,2026-03-04,Email,High,Student Affairs,16,No,5.0,3,Completed,No,1.0
+REQ-2026-0145,Records,Faculty,2026-02-21,Portal,Low,Registrar,7,No,3.0,2,Completed,Yes,3.0
+REQ-2026-0146,IT Support,Student,2026-01-04,Portal,High,Registrar,10,No,9.0,5,Completed,No,2.0
+REQ-2026-0147,Records,Student,2026-01-23,Portal,Normal,Student Affairs,5,Yes,2.0,5,Completed,No,4.0
+REQ-2026-0148,Certification,Student,2026-01-15,Portal,High,Registrar,3,Yes,4.0,3,Completed,No,1.0
+REQ-2026-0149,IT Support,Student,2026-02-12,Portal,High,Finance Office,15,Yes,8.0,3,Completed,No,3.0
+REQ-2026-0150,Records,Student,2026-01-29,Portal,Normal,IT Helpdesk,15,Yes,7.0,7,Completed,No,3.0
+REQ-2026-0151,Records,Student,2026-02-05,Portal,Low,Student Affairs,12,Yes,6.0,5,Completed,Yes,2.0
+REQ-2026-0152,Scholarship Inquiry,Student,2026-01-13,Portal,Normal,Registrar,10,Yes,,7,Pending,No,
+REQ-2026-0153,IT Support,Student,2026-02-01,Email,Normal,Registrar,12,Yes,,5,Pending,No,
+REQ-2026-0154,Records,Student,2026-03-12,Portal,Low,Registrar,12,Yes,,2,Pending,No,
+REQ-2026-0155,IT Support,Student,2026-02-28,Portal,Low,Student Affairs,12,Yes,1.0,2,Completed,No,4.0
+REQ-2026-0156,Certification,Student,2026-03-27,Portal,Normal,IT Helpdesk,5,Yes,7.0,3,Completed,No,1.0
+REQ-2026-0157,Certification,Faculty,2026-01-28,Walk-in,Low,Finance Office,16,Yes,5.0,3,Completed,No,2.0
+REQ-2026-0158,Library Access,Student,2026-03-07,Portal,Low,Registrar,11,Yes,3.0,3,Completed,No,4.0
+REQ-2026-0159,IT Support,Student,2026-02-11,Walk-in,Normal,Registrar,9,Yes,5.0,3,Completed,No,3.0
+REQ-2026-0160,Certification,Staff,2026-02-14,Portal,Low,Registrar,10,Yes,,3,Pending,No,
+REQ-2026-0161,Scholarship Inquiry,Student,2026-03-03,Email,Normal,IT Helpdesk,12,Yes,4.0,5,Completed,No,4.0
+REQ-2026-0162,Scholarship Inquiry,Student,2026-02-26,Portal,Normal,Finance Office,6,Yes,3.0,5,Completed,No,3.0
+REQ-2026-0163,Records,Student,2026-01-06,Portal,Normal,Registrar,5,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0164,Records,Student,2026-01-28,Portal,High,Student Affairs,11,Yes,3.0,5,Completed,No,5.0
+REQ-2026-0165,Records,Student,2026-01-28,Portal,Normal,Registrar,12,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0166,IT Support,Student,2026-02-13,Portal,Normal,IT Helpdesk,7,No,6.0,5,Completed,Yes,1.0
+REQ-2026-0167,IT Support,Student,2026-03-25,Portal,Normal,Finance Office,13,Yes,6.0,2,Completed,No,1.0
+REQ-2026-0168,IT Support,Student,2026-01-30,Email,Normal,Registrar,7,Yes,7.0,7,Completed,No,5.0
+REQ-2026-0169,Library Access,Faculty,2026-03-03,Walk-in,High,Registrar,8,Yes,3.0,5,Completed,No,5.0
+REQ-2026-0170,IT Support,Student,2026-03-16,Portal,High,Finance Office,12,Yes,6.0,3,Completed,No,1.0
+REQ-2026-0171,Records,Faculty,2026-03-30,Portal,Normal,Finance Office,11,Yes,1.0,2,Completed,No,5.0
+REQ-2026-0172,Records,Student,2026-03-03,Portal,Low,IT Helpdesk,9,Yes,5.0,3,Completed,No,1.0
+REQ-2026-0173,Certification,Faculty,2026-01-01,Email,Normal,IT Helpdesk,9,Yes,3.0,2,Completed,Yes,3.0
+REQ-2026-0174,Certification,Student,2026-01-27,Portal,Low,Registrar,10,Yes,2.0,2,Completed,No,4.0
+REQ-2026-0175,IT Support,Student,2026-03-03,Walk-in,High,IT Helpdesk,7,Yes,4.0,5,Completed,No,3.0
+REQ-2026-0176,Scholarship Inquiry,Student,2026-03-18,Portal,Normal,Student Affairs,9,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0177,Records,Student,2026-01-03,Portal,Normal,Student Affairs,12,Yes,,5,Pending,No,
+REQ-2026-0178,Certification,Student,2026-03-11,Email,Normal,Registrar,10,No,6.0,7,Completed,No,5.0
+REQ-2026-0179,IT Support,Faculty,2026-03-13,Email,Normal,Registrar,13,Yes,5.0,3,Completed,No,3.0
+REQ-2026-0180,Certification,Faculty,2026-01-27,Portal,Normal,Registrar,7,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0181,Records,Student,2026-01-09,Portal,Low,Registrar,10,Yes,3.0,2,Completed,Yes,2.0
+REQ-2026-0182,Certification,Student,2026-03-03,Walk-in,Normal,Registrar,5,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0183,Records,Student,2026-02-06,Portal,Normal,Registrar,9,No,4.0,3,Completed,No,3.0
+REQ-2026-0184,Library Access,Student,2026-02-20,Walk-in,Normal,Registrar,11,Yes,10.0,7,Completed,Yes,3.0
+REQ-2026-0185,Records,Student,2026-02-13,Portal,High,Registrar,10,No,5.0,5,Completed,No,3.0
+REQ-2026-0186,Certification,Student,2026-01-24,Email,Low,IT Helpdesk,9,Yes,1.0,3,Completed,No,5.0
+REQ-2026-0187,Certification,Staff,2026-03-20,Email,Normal,Registrar,11,No,1.0,2,Completed,No,5.0
+REQ-2026-0188,Library Access,Student,2026-02-28,Portal,Normal,Registrar,11,Yes,2.0,5,Completed,No,3.0
+REQ-2026-0189,Records,Student,2026-02-01,Walk-in,Normal,Registrar,18,No,8.0,5,Completed,No,1.0
+REQ-2026-0190,Records,Student,2026-03-29,Portal,Normal,Registrar,7,Yes,2.0,2,Completed,No,5.0
+REQ-2026-0191,Records,Student,2026-02-21,Portal,Normal,IT Helpdesk,8,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0192,Records,Student,2026-03-03,Portal,Normal,Registrar,15,Yes,8.0,5,Completed,No,2.0
+REQ-2026-0193,Records,Student,2026-02-27,Portal,High,Student Affairs,5,Yes,,2,Cancelled,No,
+REQ-2026-0194,IT Support,Faculty,2026-02-21,Email,Normal,Finance Office,12,No,8.0,7,Completed,No,3.0
+REQ-2026-0195,Records,Student,2026-01-12,Portal,Normal,Student Affairs,13,Yes,,3,Pending,No,
+REQ-2026-0196,Records,Student,2026-02-08,Portal,Normal,IT Helpdesk,11,Yes,1.0,2,Completed,No,3.0
+REQ-2026-0197,Scholarship Inquiry,Faculty,2026-01-02,Portal,Normal,Finance Office,9,Yes,6.0,5,Completed,No,1.0
+REQ-2026-0198,Certification,Student,2026-01-03,Portal,Normal,Student Affairs,4,Yes,6.0,3,Completed,No,3.0
+REQ-2026-0199,Certification,Student,2026-02-25,Portal,Low,Registrar,6,Yes,5.0,3,Completed,Yes,3.0
+REQ-2026-0200,Records,Student,2026-03-22,Email,Normal,Registrar,6,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0201,Library Access,Student,2026-02-28,Walk-in,Normal,Finance Office,14,Yes,7.0,2,Completed,No,3.0
+REQ-2026-0202,Records,Student,2026-01-02,Email,Normal,Registrar,8,No,3.0,5,Completed,No,4.0
+REQ-2026-0203,Scholarship Inquiry,Student,2026-01-02,Portal,Normal,Registrar,11,Yes,2.0,3,Completed,No,3.0
+REQ-2026-0204,IT Support,Student,2026-02-23,Portal,High,Student Affairs,12,Yes,4.0,3,Completed,Yes,2.0
+REQ-2026-0205,Records,Student,2026-03-28,Portal,Low,Student Affairs,13,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0206,Library Access,Faculty,2026-01-01,Portal,Normal,Registrar,5,Yes,7.0,5,Completed,Yes,2.0
+REQ-2026-0207,Records,Student,2026-01-19,Portal,Normal,IT Helpdesk,10,Yes,3.0,2,Completed,Yes,3.0
+REQ-2026-0208,Records,Student,2026-01-02,Portal,Normal,Registrar,15,Yes,8.0,3,Completed,Yes,1.0
+REQ-2026-0209,Scholarship Inquiry,Student,2026-02-22,Portal,Normal,Student Affairs,7,Yes,7.0,7,Completed,No,3.0
+REQ-2026-0210,IT Support,Student,2026-02-13,Walk-in,Low,Registrar,6,Yes,7.0,5,Completed,No,3.0
+REQ-2026-0211,IT Support,Student,2026-02-01,Portal,Normal,Registrar,8,No,1.0,3,Completed,No,5.0
+REQ-2026-0212,Records,Faculty,2026-03-11,Portal,Normal,Student Affairs,8,Yes,,3,Cancelled,No,
+REQ-2026-0213,Certification,Staff,2026-02-01,Portal,Normal,IT Helpdesk,7,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0214,IT Support,Student,2026-03-09,Portal,Normal,Student Affairs,10,No,2.0,5,Completed,No,3.0
+REQ-2026-0215,Records,Student,2026-02-24,Walk-in,High,Registrar,10,No,,5,Cancelled,No,
+REQ-2026-0216,Records,Student,2026-03-16,Portal,Normal,Registrar,8,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0217,Records,Student,2026-02-25,Portal,Normal,IT Helpdesk,9,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0218,Records,Student,2026-01-17,Portal,Low,Registrar,13,Yes,,5,Cancelled,No,
+REQ-2026-0219,Scholarship Inquiry,Staff,2026-02-07,Portal,Normal,Registrar,10,No,3.0,2,Completed,No,3.0
+REQ-2026-0220,Certification,Student,2026-01-24,Portal,Low,Registrar,9,No,5.0,3,Completed,No,2.0
+REQ-2026-0221,Library Access,Student,2026-03-10,Email,Normal,Student Affairs,11,Yes,2.0,2,Completed,No,4.0
+REQ-2026-0222,Certification,Student,2026-03-11,Email,Normal,Finance Office,12,Yes,3.0,3,Completed,No,4.0
+REQ-2026-0223,IT Support,Faculty,2026-03-27,Email,Normal,Finance Office,10,Yes,7.0,5,Completed,Yes,2.0
+REQ-2026-0224,Records,Student,2026-01-11,Portal,Normal,IT Helpdesk,10,No,,3,Pending,No,
+REQ-2026-0225,Certification,Staff,2026-01-16,Email,Normal,Registrar,5,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0226,Records,Student,2026-03-14,Portal,High,Registrar,8,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0227,Records,Student,2026-02-28,Portal,Normal,Student Affairs,10,No,,3,Pending,No,
+REQ-2026-0228,Certification,Student,2026-03-11,Email,High,Registrar,14,Yes,4.0,3,Completed,No,3.0
+REQ-2026-0229,Library Access,Student,2026-03-21,Portal,Normal,Finance Office,10,Yes,2.0,3,Completed,No,3.0
+REQ-2026-0230,IT Support,Student,2026-01-03,Portal,Normal,Registrar,7,Yes,3.0,5,Completed,No,3.0
+REQ-2026-0231,Records,Student,2026-01-20,Email,High,Finance Office,11,Yes,5.0,3,Completed,Yes,3.0
+REQ-2026-0232,Records,Student,2026-02-28,Portal,Normal,Student Affairs,10,Yes,7.0,5,Completed,No,1.0
+REQ-2026-0233,Records,Student,2026-02-05,Portal,High,Student Affairs,11,Yes,,2,Pending,No,
+REQ-2026-0234,Certification,Student,2026-01-19,Portal,Low,Registrar,6,Yes,1.0,2,Completed,No,4.0
+REQ-2026-0235,IT Support,Student,2026-03-08,Walk-in,Low,Registrar,8,No,2.0,3,Completed,No,3.0
+REQ-2026-0236,Library Access,Student,2026-01-19,Walk-in,High,Registrar,11,Yes,4.0,3,Completed,No,1.0
+REQ-2026-0237,Records,Student,2026-01-20,Walk-in,Low,Registrar,14,Yes,,5,Pending,No,
+REQ-2026-0238,Certification,Student,2026-03-12,Portal,High,Registrar,14,Yes,,3,Pending,No,
+REQ-2026-0239,Certification,Student,2026-02-21,Portal,High,IT Helpdesk,11,No,1.0,3,Completed,No,4.0
+REQ-2026-0240,IT Support,Student,2026-02-02,Portal,Low,Registrar,13,No,11.0,5,Completed,Yes,3.0
+REQ-2026-0241,Certification,Student,2026-02-09,Portal,Normal,IT Helpdesk,8,Yes,5.0,2,Completed,No,3.0
+REQ-2026-0242,IT Support,Student,2026-02-08,Portal,Low,IT Helpdesk,9,Yes,2.0,3,Completed,No,3.0
+REQ-2026-0243,IT Support,Student,2026-03-23,Portal,Normal,Registrar,13,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0244,Records,Student,2026-01-01,Portal,Low,Finance Office,10,Yes,2.0,5,Completed,No,4.0
+REQ-2026-0245,IT Support,Student,2026-01-11,Walk-in,Normal,Registrar,10,Yes,,3,Pending,No,
+REQ-2026-0246,Records,Student,2026-02-26,Portal,Normal,Registrar,12,No,7.0,7,Completed,No,5.0
+REQ-2026-0247,IT Support,Student,2026-03-30,Portal,Normal,IT Helpdesk,9,No,6.0,5,Completed,No,3.0
+REQ-2026-0248,Certification,Student,2026-02-19,Portal,High,Student Affairs,11,Yes,5.0,3,Completed,No,3.0
+REQ-2026-0249,Certification,Student,2026-01-23,Walk-in,Normal,Registrar,12,No,6.0,5,Completed,No,1.0
+REQ-2026-0250,Scholarship Inquiry,Student,2026-01-31,Email,Normal,Registrar,13,No,3.0,3,Completed,No,4.0
+REQ-2026-0251,Scholarship Inquiry,Student,2026-02-11,Email,Normal,IT Helpdesk,13,Yes,4.0,3,Completed,No,1.0
+REQ-2026-0252,Scholarship Inquiry,Student,2026-01-07,Walk-in,Normal,Registrar,4,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0253,Certification,Student,2026-01-16,Portal,Normal,IT Helpdesk,10,No,3.0,3,Completed,No,5.0
+REQ-2026-0254,IT Support,Student,2026-03-01,Portal,Normal,Finance Office,5,Yes,,5,Cancelled,No,
+REQ-2026-0255,Certification,Faculty,2026-01-02,Portal,High,Finance Office,8,No,4.0,3,Completed,No,1.0
+REQ-2026-0256,Scholarship Inquiry,Student,2026-01-01,Portal,Normal,Registrar,12,No,3.0,5,Completed,No,4.0
+REQ-2026-0257,Certification,Student,2026-02-17,Portal,Normal,Registrar,11,Yes,,5,Pending,No,
+REQ-2026-0258,Library Access,Student,2026-01-12,Portal,Normal,Registrar,11,No,3.0,2,Completed,Yes,2.0
+REQ-2026-0259,Library Access,Student,2026-03-10,Walk-in,High,Registrar,9,Yes,6.0,5,Completed,No,3.0
+REQ-2026-0260,IT Support,Student,2026-02-06,Walk-in,Normal,Registrar,9,Yes,,3,Pending,No,
+REQ-2026-0261,Records,Student,2026-02-01,Email,Normal,Registrar,18,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0262,Records,Student,2026-01-09,Email,Normal,Finance Office,5,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0263,Scholarship Inquiry,Student,2026-01-19,Email,Low,Finance Office,9,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0264,Records,Faculty,2026-02-17,Portal,Normal,Registrar,12,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0265,Scholarship Inquiry,Student,2026-03-21,Portal,Low,Registrar,17,Yes,4.0,2,Completed,No,3.0
+REQ-2026-0266,Certification,Student,2026-01-03,Email,High,Registrar,17,Yes,4.0,2,Completed,Yes,1.0
+REQ-2026-0267,Certification,Student,2026-01-20,Email,Low,Registrar,10,Yes,1.0,3,Completed,No,5.0
+REQ-2026-0268,Scholarship Inquiry,Student,2026-01-24,Portal,Low,IT Helpdesk,10,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0269,IT Support,Student,2026-02-23,Walk-in,Normal,IT Helpdesk,17,No,9.0,7,Completed,Yes,1.0
+REQ-2026-0270,Certification,Student,2026-02-02,Portal,Normal,Finance Office,11,No,4.0,3,Completed,No,2.0
+REQ-2026-0271,Certification,Faculty,2026-01-24,Portal,Low,Student Affairs,8,Yes,4.0,3,Completed,No,1.0
+REQ-2026-0272,Certification,Student,2026-03-16,Email,Normal,IT Helpdesk,9,No,,3,Pending,No,
+REQ-2026-0273,IT Support,Student,2026-03-13,Portal,Normal,Student Affairs,11,Yes,4.0,2,Completed,No,2.0
+REQ-2026-0274,Records,Faculty,2026-02-05,Portal,Normal,Registrar,4,Yes,,7,Pending,No,
+REQ-2026-0275,Library Access,Student,2026-02-07,Portal,Low,IT Helpdesk,8,Yes,6.0,5,Completed,No,2.0
+REQ-2026-0276,Scholarship Inquiry,Staff,2026-03-25,Email,Normal,IT Helpdesk,12,Yes,4.0,5,Completed,No,5.0
+REQ-2026-0277,Records,Student,2026-03-30,Portal,Normal,Registrar,13,No,4.0,2,Completed,No,1.0
+REQ-2026-0278,IT Support,Student,2026-01-25,Email,Low,Registrar,15,Yes,,3,Cancelled,No,
+REQ-2026-0279,Certification,Student,2026-01-18,Portal,Normal,Registrar,12,Yes,6.0,3,Completed,No,1.0
+REQ-2026-0280,Records,Student,2026-03-23,Portal,High,Finance Office,12,Yes,6.0,5,Completed,No,3.0
+REQ-2026-0281,Library Access,Student,2026-03-07,Walk-in,Normal,Registrar,10,Yes,1.0,2,Completed,No,5.0
+REQ-2026-0282,Records,Student,2026-02-23,Portal,Normal,Registrar,8,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0283,Records,Faculty,2026-02-04,Walk-in,High,Registrar,12,Yes,9.0,7,Completed,No,2.0
+REQ-2026-0284,Certification,Student,2026-03-21,Portal,High,Student Affairs,5,Yes,,3,Cancelled,No,
+REQ-2026-0285,Certification,Student,2026-03-02,Walk-in,Normal,Registrar,10,Yes,,3,Cancelled,No,
+REQ-2026-0286,Certification,Student,2026-02-10,Portal,Normal,Finance Office,11,Yes,1.0,2,Completed,No,3.0
+REQ-2026-0287,IT Support,Student,2026-02-02,Portal,Normal,Finance Office,11,Yes,7.0,7,Completed,No,3.0
+REQ-2026-0288,IT Support,Student,2026-03-09,Portal,Normal,IT Helpdesk,14,Yes,6.0,2,Completed,No,1.0
+REQ-2026-0289,IT Support,Student,2026-02-02,Portal,Low,Student Affairs,9,Yes,2.0,5,Completed,No,3.0
+REQ-2026-0290,Records,Student,2026-01-14,Email,Normal,Registrar,11,Yes,3.0,5,Completed,No,3.0
+REQ-2026-0291,Certification,Student,2026-01-21,Portal,Normal,Registrar,10,Yes,4.0,3,Completed,No,2.0
+REQ-2026-0292,Records,Student,2026-02-17,Portal,Normal,Student Affairs,12,No,5.0,5,Completed,No,4.0
+REQ-2026-0293,Records,Staff,2026-01-20,Portal,Normal,Registrar,9,Yes,,2,Cancelled,No,
+REQ-2026-0294,Certification,Student,2026-01-08,Portal,Normal,Registrar,9,No,2.0,3,Completed,No,5.0
+REQ-2026-0295,Records,Student,2026-01-07,Email,Low,IT Helpdesk,7,Yes,4.0,5,Completed,No,3.0
+REQ-2026-0296,Records,Student,2026-03-08,Portal,Normal,Registrar,16,Yes,7.0,5,Completed,No,1.0
+REQ-2026-0297,Records,Student,2026-01-17,Email,Normal,Finance Office,5,No,6.0,5,Completed,Yes,2.0
+REQ-2026-0298,Library Access,Student,2026-02-02,Email,Normal,Registrar,10,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0299,Library Access,Student,2026-02-17,Email,Low,Student Affairs,8,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0300,IT Support,Student,2026-03-17,Portal,High,IT Helpdesk,5,Yes,1.0,2,Completed,No,5.0
+REQ-2026-0301,Library Access,Student,2026-02-28,Email,Normal,Student Affairs,10,Yes,,2,Pending,No,
+REQ-2026-0302,IT Support,Student,2026-03-27,Walk-in,Normal,Registrar,8,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0303,Certification,Staff,2026-01-22,Email,High,IT Helpdesk,12,No,2.0,3,Completed,No,4.0
+REQ-2026-0304,Records,Student,2026-01-30,Portal,Normal,Finance Office,8,Yes,2.0,3,Completed,No,4.0
+REQ-2026-0305,IT Support,Student,2026-02-07,Email,Normal,IT Helpdesk,3,Yes,3.0,3,Completed,No,5.0
+REQ-2026-0306,IT Support,Student,2026-02-20,Email,High,Registrar,9,No,1.0,3,Completed,No,4.0
+REQ-2026-0307,IT Support,Student,2026-02-23,Email,Low,IT Helpdesk,17,No,,3,Pending,No,
+REQ-2026-0308,IT Support,Student,2026-01-08,Portal,Normal,Student Affairs,7,Yes,6.0,5,Completed,No,1.0
+REQ-2026-0309,Certification,Student,2026-01-27,Portal,Normal,Registrar,4,Yes,1.0,3,Completed,No,5.0
+REQ-2026-0310,IT Support,Student,2026-01-27,Email,Normal,Finance Office,14,No,10.0,7,Completed,No,1.0
+REQ-2026-0311,Library Access,Student,2026-01-21,Portal,Normal,Registrar,14,Yes,11.0,5,Completed,Yes,3.0
+REQ-2026-0312,Certification,Student,2026-01-30,Email,Normal,IT Helpdesk,3,Yes,1.0,2,Completed,No,5.0
+REQ-2026-0313,IT Support,Student,2026-01-28,Portal,Normal,Student Affairs,11,No,3.0,5,Completed,No,3.0
+REQ-2026-0314,Certification,Student,2026-03-05,Portal,Normal,Student Affairs,10,Yes,,3,Cancelled,No,
+REQ-2026-0315,IT Support,Student,2026-03-10,Portal,Normal,Finance Office,10,Yes,5.0,3,Completed,No,1.0
+REQ-2026-0316,IT Support,Student,2026-03-02,Portal,Normal,Finance Office,10,Yes,4.0,3,Completed,No,2.0
+REQ-2026-0317,Records,Student,2026-02-17,Walk-in,Normal,Registrar,10,Yes,6.0,3,Completed,Yes,2.0
+REQ-2026-0318,IT Support,Student,2026-01-19,Walk-in,Normal,Registrar,12,No,,3,Pending,No,
+REQ-2026-0319,Records,Student,2026-01-04,Email,Normal,Registrar,10,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0320,IT Support,Student,2026-02-04,Portal,Normal,Student Affairs,8,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0321,Certification,Student,2026-03-05,Email,Normal,Finance Office,8,Yes,8.0,5,Completed,No,2.0
+REQ-2026-0322,IT Support,Student,2026-02-18,Email,Normal,Registrar,18,Yes,7.0,3,Completed,Yes,3.0
+REQ-2026-0323,Records,Student,2026-01-17,Portal,High,Registrar,11,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0324,IT Support,Student,2026-02-13,Portal,Normal,Registrar,10,Yes,3.0,2,Completed,No,2.0
+REQ-2026-0325,Records,Student,2026-01-30,Email,Normal,Student Affairs,12,Yes,6.0,3,Completed,No,3.0
+REQ-2026-0326,Scholarship Inquiry,Student,2026-02-15,Email,Normal,Registrar,14,No,6.0,5,Completed,No,3.0
+REQ-2026-0327,Library Access,Student,2026-01-06,Walk-in,High,Registrar,6,Yes,,3,Cancelled,No,
+REQ-2026-0328,Library Access,Student,2026-02-06,Portal,Normal,IT Helpdesk,8,Yes,1.0,2,Completed,No,4.0
+REQ-2026-0329,IT Support,Student,2026-01-24,Email,Normal,Student Affairs,16,No,4.0,2,Completed,No,3.0
+REQ-2026-0330,IT Support,Staff,2026-02-15,Portal,Normal,Student Affairs,12,Yes,2.0,3,Completed,No,3.0
+REQ-2026-0331,Records,Student,2026-02-22,Portal,Normal,IT Helpdesk,10,Yes,5.0,7,Completed,No,5.0
+REQ-2026-0332,Records,Student,2026-03-01,Portal,Normal,Registrar,13,No,3.0,3,Completed,No,4.0
+REQ-2026-0333,Certification,Faculty,2026-03-04,Portal,Normal,IT Helpdesk,7,Yes,5.0,7,Completed,No,4.0
+REQ-2026-0334,IT Support,Staff,2026-03-26,Portal,High,Student Affairs,8,Yes,8.0,3,Completed,Yes,2.0
+REQ-2026-0335,Scholarship Inquiry,Student,2026-02-01,Portal,Normal,Finance Office,5,Yes,1.0,3,Completed,No,4.0
+REQ-2026-0336,Records,Student,2026-03-28,Email,Normal,Registrar,6,Yes,1.0,3,Completed,No,5.0
+REQ-2026-0337,Library Access,Student,2026-02-02,Email,High,Registrar,14,No,8.0,5,Completed,Yes,2.0
+REQ-2026-0338,IT Support,Student,2026-03-08,Portal,Normal,Registrar,13,Yes,3.0,2,Completed,No,3.0
+REQ-2026-0339,IT Support,Student,2026-01-18,Walk-in,Normal,Registrar,12,No,3.0,5,Completed,No,5.0
+REQ-2026-0340,Records,Student,2026-01-25,Portal,Normal,Student Affairs,3,No,2.0,5,Completed,No,4.0
+REQ-2026-0341,Records,Student,2026-02-23,Portal,Normal,Registrar,12,Yes,4.0,3,Completed,No,1.0
+REQ-2026-0342,Certification,Staff,2026-02-27,Email,Low,IT Helpdesk,11,Yes,8.0,7,Completed,No,3.0
+REQ-2026-0343,IT Support,Student,2026-03-08,Portal,Normal,Registrar,9,Yes,5.0,5,Completed,No,3.0
+REQ-2026-0344,Records,Student,2026-02-15,Portal,Normal,Registrar,13,Yes,6.0,5,Completed,No,1.0
+REQ-2026-0345,Certification,Student,2026-01-24,Portal,Normal,IT Helpdesk,13,Yes,5.0,2,Completed,No,1.0
+REQ-2026-0346,Scholarship Inquiry,Student,2026-02-01,Portal,Normal,Registrar,10,No,5.0,3,Completed,No,2.0
+REQ-2026-0347,Scholarship Inquiry,Student,2026-02-16,Email,Normal,Registrar,8,No,1.0,3,Completed,No,4.0
+REQ-2026-0348,Library Access,Student,2026-03-27,Portal,Low,Student Affairs,13,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0349,Certification,Student,2026-01-23,Portal,Normal,IT Helpdesk,6,Yes,1.0,2,Completed,No,5.0
+REQ-2026-0350,Records,Student,2026-03-07,Portal,Low,Registrar,18,No,8.0,5,Completed,No,3.0
+REQ-2026-0351,IT Support,Student,2026-01-27,Email,Normal,Finance Office,13,Yes,,2,Pending,No,
+REQ-2026-0352,Certification,Staff,2026-01-02,Portal,High,IT Helpdesk,8,No,1.0,3,Completed,No,5.0
+REQ-2026-0353,Records,Student,2026-01-17,Email,Normal,Student Affairs,12,Yes,2.0,7,Completed,No,4.0
+REQ-2026-0354,Records,Student,2026-02-02,Portal,Normal,Registrar,7,Yes,2.0,5,Completed,No,5.0
+REQ-2026-0355,Certification,Student,2026-01-09,Portal,Low,Registrar,12,No,4.0,3,Completed,No,2.0
+REQ-2026-0356,Records,Student,2026-02-12,Portal,Normal,Registrar,10,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0357,Records,Student,2026-02-17,Portal,Normal,Registrar,6,No,1.0,2,Completed,No,4.0
+REQ-2026-0358,Records,Student,2026-02-08,Portal,Normal,Registrar,5,No,,2,Pending,No,
+REQ-2026-0359,Records,Faculty,2026-02-11,Portal,Normal,Finance Office,9,Yes,5.0,5,Completed,No,4.0
+REQ-2026-0360,IT Support,Faculty,2026-01-26,Walk-in,Normal,IT Helpdesk,8,Yes,1.0,3,Completed,No,5.0
+REQ-2026-0361,Certification,Student,2026-02-19,Portal,Normal,Registrar,19,No,6.0,3,Completed,No,2.0
+REQ-2026-0362,IT Support,Student,2026-01-25,Email,Normal,IT Helpdesk,10,No,3.0,3,Completed,No,3.0
+REQ-2026-0363,Records,Student,2026-01-24,Portal,Normal,Registrar,11,Yes,2.0,2,Completed,No,3.0
+REQ-2026-0364,Records,Student,2026-01-13,Portal,Normal,IT Helpdesk,7,No,6.0,3,Completed,No,1.0
+REQ-2026-0365,IT Support,Student,2026-03-01,Portal,Normal,IT Helpdesk,7,Yes,,3,Pending,No,
+REQ-2026-0366,Certification,Student,2026-01-07,Walk-in,Low,Student Affairs,11,Yes,5.0,5,Completed,No,3.0
+REQ-2026-0367,Certification,Faculty,2026-02-26,Portal,Normal,Finance Office,11,No,7.0,5,Completed,Yes,1.0
+REQ-2026-0368,Certification,Student,2026-02-05,Portal,Normal,Registrar,10,Yes,,3,Cancelled,No,
+REQ-2026-0369,Scholarship Inquiry,Faculty,2026-02-14,Portal,Normal,IT Helpdesk,12,No,,3,Pending,No,
+REQ-2026-0370,Records,Student,2026-01-20,Portal,Normal,Finance Office,15,Yes,8.0,2,Completed,No,1.0
+REQ-2026-0371,Certification,Student,2026-03-06,Portal,Normal,Student Affairs,12,Yes,3.0,2,Completed,Yes,1.0
+REQ-2026-0372,IT Support,Student,2026-01-08,Portal,Normal,IT Helpdesk,5,Yes,5.0,5,Completed,No,3.0
+REQ-2026-0373,Certification,Student,2026-01-16,Portal,Low,Finance Office,7,Yes,,3,Cancelled,No,
+REQ-2026-0374,Records,Student,2026-01-14,Portal,High,Registrar,4,Yes,2.0,2,Completed,No,5.0
+REQ-2026-0375,Certification,Faculty,2026-03-17,Email,Normal,Finance Office,14,Yes,6.0,5,Completed,Yes,2.0
+REQ-2026-0376,IT Support,Student,2026-03-28,Portal,Normal,Registrar,13,Yes,9.0,5,Completed,No,1.0
+REQ-2026-0377,Records,Faculty,2026-01-15,Portal,Normal,IT Helpdesk,7,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0378,Records,Faculty,2026-03-07,Portal,Normal,Finance Office,13,Yes,,3,Cancelled,No,
+REQ-2026-0379,Records,Student,2026-02-01,Email,High,Registrar,6,No,,3,Cancelled,No,
+REQ-2026-0380,Scholarship Inquiry,Faculty,2026-03-28,Portal,Low,IT Helpdesk,11,Yes,2.0,3,Completed,No,5.0
+REQ-2026-0381,Records,Staff,2026-03-04,Portal,Low,Registrar,11,Yes,4.0,2,Completed,Yes,2.0
+REQ-2026-0382,Library Access,Student,2026-03-27,Portal,Normal,Finance Office,11,Yes,2.0,5,Completed,No,5.0
+REQ-2026-0383,Certification,Student,2026-02-20,Portal,Normal,Student Affairs,11,Yes,4.0,5,Completed,No,3.0
+REQ-2026-0384,Library Access,Staff,2026-01-25,Portal,Normal,Student Affairs,12,Yes,7.0,5,Completed,No,1.0
+REQ-2026-0385,Library Access,Student,2026-02-27,Email,Low,IT Helpdesk,11,Yes,,5,Pending,No,
+REQ-2026-0386,Certification,Student,2026-03-04,Email,Normal,Student Affairs,10,Yes,1.0,3,Completed,No,5.0
+REQ-2026-0387,Records,Faculty,2026-03-03,Email,Normal,Registrar,6,Yes,6.0,5,Completed,No,3.0
+REQ-2026-0388,Records,Student,2026-01-22,Portal,Normal,Registrar,12,No,,3,Cancelled,No,
+REQ-2026-0389,Records,Student,2026-02-27,Portal,High,Student Affairs,11,Yes,5.0,3,Completed,No,3.0
+REQ-2026-0390,IT Support,Student,2026-02-27,Portal,Low,Registrar,11,Yes,3.0,3,Completed,No,3.0
+REQ-2026-0391,Records,Student,2026-03-27,Portal,Normal,Registrar,10,Yes,,2,Pending,No,
+REQ-2026-0392,Records,Student,2026-02-18,Portal,Normal,Registrar,14,Yes,6.0,3,Completed,No,3.0
+REQ-2026-0393,Certification,Staff,2026-02-21,Email,Normal,Registrar,8,Yes,3.0,7,Completed,No,4.0
+REQ-2026-0394,Scholarship Inquiry,Student,2026-02-11,Portal,Normal,Finance Office,10,Yes,,3,Cancelled,No,
+REQ-2026-0395,Records,Student,2026-03-11,Portal,Normal,IT Helpdesk,9,Yes,,2,Pending,No,
+REQ-2026-0396,Records,Student,2026-01-15,Portal,Low,Student Affairs,9,Yes,7.0,3,Completed,No,1.0
+REQ-2026-0397,Records,Student,2026-02-23,Portal,High,Registrar,14,Yes,8.0,5,Completed,No,1.0
+REQ-2026-0398,Scholarship Inquiry,Student,2026-03-01,Portal,Normal,Registrar,18,Yes,3.0,3,Completed,No,4.0
+REQ-2026-0399,IT Support,Faculty,2026-01-08,Email,Normal,Registrar,12,Yes,5.0,5,Completed,No,5.0
+REQ-2026-0400,Records,Faculty,2026-02-22,Portal,Normal,Student Affairs,10,Yes,,2,Pending,No,
